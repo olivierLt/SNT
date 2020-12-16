@@ -4,3 +4,4 @@ Pillow==7.*
 matplotlib==3.*
 graphviz==0.*
 metakernel==0.*
+networkx==2.*
